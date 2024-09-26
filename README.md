@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathishkumar9866&label=Profile%20views&color=0e75b6&style=flat" alt="sathishkumar9866" /> </p>-->
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathishkumar9866&label=Profile%20views&color=0e75b6&style=flat" alt="sathishkumar9866" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathishkumar9866" alt="sathishkumar9866" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathishkumar9866" alt="sathishkumar9866" /></a> </p>-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
