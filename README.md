@@ -31,9 +31,9 @@ Hello and welcome to my GitHub page! I'm passionate about data science, analytic
 
 ## About Me
 
-I’m a software engineer and data enthusiast with a background in developing scalable systems, creating ETL pipelines, and applying advanced analytics to real-world problems. My expertise includes:
+I'm an Associate ML engineer and data enthusiast with a background in developing scalable systems, creating ETL pipelines, and applying advanced analytics to real-world problems. 
+My expertise includes:
 - **Data Analysis and Modeling**: Using Python, SQL, and machine learning to derive insights from data.
-- **System Design**: Building scalable systems and infrastructure for high-performance applications.
 - **ETL Pipelines**: Designing and implementing end-to-end data pipelines with tools like PySpark.
 - **Machine Learning**: Applying AI/ML algorithms to solve complex data challenges.
   
@@ -42,6 +42,7 @@ I’m always open to learning and sharing knowledge, and my GitHub page reflects
 ## Projects
 
 Here are some of my featured projects. For a full list, visit the repository section.
+<!--
 
 ### 1. **[ETL Pipeline with PySpark](#)**
    - **Overview**: An end-to-end ETL pipeline built using PySpark to process large-scale datasets. The project showcases data extraction, transformation, and loading techniques, optimizing workflows for speed and efficiency.
@@ -62,7 +63,7 @@ Here are some of my featured projects. For a full list, visit the repository sec
    - **Overview**: Created interactive dashboards for visualizing sales and marketing data. The project demonstrates my ability to turn raw data into meaningful visual insights.
    - **Skills Used**: Tableau, Data Visualization
    - **Link**: [Project Repo](#)
-
+-->
 For more details on all projects, check the individual repository links.
 
 ## How to Use This Repository
