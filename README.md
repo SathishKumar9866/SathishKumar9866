@@ -77,9 +77,9 @@ Clone or fork any of the repositories if you'd like to try out the code or build
 ## Contact
 
 If you’re interested in collaborating, have any questions, or would like to get in touch, you can reach me at:
-- **Email**: yourname@example.com
-- **LinkedIn**: [LinkedIn Profile](#)
-- **Portfolio**: [Website/Portfolio](#)
+- **Email**: sathishkumar786.ml@gmail.com
+- **LinkedIn**: [LinkedIn Profile](https://github.com/SathishKumar9866)
+- **Portfolio**: [Website/Portfolio](#) #Currently Working on it. 
 
 Feel free to drop me a message, and I'll get back to you as soon as possible!
 
