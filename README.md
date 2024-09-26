@@ -94,7 +94,4 @@ I’m always open to contributions! If you’d like to contribute to one of my p
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a Pull Request, and I will review it as soon as possible.
 
-For details, please review the [Contributing Guidelines](#).
-
-
 Thank you for visiting my GitHub page! I hope you find my projects useful, and I look forward to your feedback. Happy coding! 😊
