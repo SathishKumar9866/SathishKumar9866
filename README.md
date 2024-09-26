@@ -82,15 +82,13 @@ Here are some ideas to get you started:
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-</p> 
--->
+</p>  -->
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathishkumar9866&show_icons=true&locale=en&layout=compact" alt="sathishkumar9866" /></p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathishkumar9866&show_icons=true&locale=en&layout=compact" alt="sathishkumar9866" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathishkumar9866&show_icons=true&locale=en" alt="sathishkumar9866" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sathishkumar9866&show_icons=true&locale=en" alt="sathishkumar9866" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkumar9866&" alt="sathishkumar9866" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathishkumar9866&" alt="sathishkumar9866" /></p> -->
 
 
 ###
